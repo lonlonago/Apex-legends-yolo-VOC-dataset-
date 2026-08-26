@@ -3,7 +3,7 @@ Apex legends yolo VOC dataset
 
 
 
-##15000 Apex Legends images
+## 15000 Apex Legends images
 
 Authentic Collection: All assets are real in-game screenshots captured by myself and manually annotated with precision. No fake augmentation methods such as mirroring or color alteration are used.
 
@@ -12,7 +12,7 @@ High-Quality Annotation: Accurately distinguishes three target categories: Enemy
 
 
 
-##a model trained on the latest 2026.7 data,It can run on both mobile and PC.  Details are as follows:
+## A model trained on the latest 2026.7 data,It can run on both mobile and PC.  Details are as follows:
 
 Apex Legends July Update Model, in RKNN format, YOLOv8, supporting input sizes of 192 / 256 / 320 / 416 / 640.
 
@@ -50,13 +50,13 @@ RKNN model file
 
 
 
-##Supporting Tool: 
+## Supporting Tool: 
 A custom screenshot utility used personally is also available for sale. It supports customized dataset collection for various shooter games, offering convenient and hassle-free operation.
 
 
 
 
-##Apex Dataset Negative Samples – Effectively Resolves False Lock Issues – 2,100 Images
+## Apex Dataset Negative Samples – Effectively Resolves False Lock Issues – 2,100 Images
 Nz3
 Collected common elements from Season 29 and Outlands maps (beacons, respawn beacons, foliage, railings, capsules, zipline stations, etc.), as well as most character abilities (Exo's aircraft, gas tanks, electric fences, etc.). Incorporating these negative samples into your training set can suppress misidentification.
 Usage: Simply add the downloaded images to your training and validation sets according to your preferred ratio (e.g., 7:3 or otherwise), then proceed with training.
@@ -71,5 +71,5 @@ A single 640×640 image may contain thousands of anchors, with positive samples 
 
 
 
-#Payment
+# Payment
 Here is a pay link on Stripe ( https://buy.stripe.com/3cs8yP7sY87d0vu9AB ). Please contact me lonlonago@foxmail.com after funding $89, and I will send you a one of the files you need , thank you!
